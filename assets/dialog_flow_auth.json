@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "azul-kei9",
+  "private_key_id": "45f0677dbc7f553c3bab931ee7e32ec39d3e962e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDakdqbZK0U0ZJ2\ncLiq7xkzy2VS1DYOCJ4hNiKRtwFO926qKgkA8xy6kZz4o/qKwmRe22r0ze7FA8gl\nHF8W3EXn938GV25vn2jlezTTyzHwxjauDs0AzB0AGUhXwdj1WPuKnDeQhspkDt5q\nOF3wWebvhV6g9Ubh0bJbqvd9DKJSR78DTHLSU3yO4c1NUjvX8OzUZw7BzB0JUu1J\nk0mjrLk7FKujaCgOjRdSYAR+18hy1dtUXPU+5pE0uNJuDa5DSd6MrsRvWyN11i2S\nuW1gkFsk+j1EEMEgQ1XR8LRaxPp+OG+XDK2clazyPlVX1IIRRkFVOhM5dWXV5vJw\n2vqO2f5xAgMBAAECggEAIuxOISkfbKWlwM32+7zzam6z1F26+1gOKCFVubGjgGIR\nqRfJU4EE1Jyil6nfxN8VmYB2oQHshkc56hAT83ujodJOVg2PRD+Uy6H5iWO8qYuK\nPhp4UAnNEnB3uinriBw9KOMYD7wxx3YGvLMf82DyANBvE8nNFxTh6jqxi6YCo6Gu\nXGgl7LP2rOGYEXbVX+vvujIkxLSx+d85QcAYw5UO9Q9OaOJo26geXnHv0KmTM06A\nPJ4gmuJtgrcjBo2W/zJ6k9ZwXtLsCqoq+IuLp592OQvs3Yi/AkvNVAqmBj3muwNd\nnYgJZvc5Ct//TsUbcT8NxKNHCkpJGjhn84KVpCUxJwKBgQD7djGveLeaPvsDspku\nBgnmoW+QfnI9FR6k8Yr7vKpQvHp4fnKnHYnS44Y9/KKtZG2bD4sWwQsIiCJ1Jm7r\nXomG8wUxW9sfhK4KIgl50jLxFo3haE9UUfcHTVccJRk5CvhGNqzaPx5TMxNAZlZ3\nlLxcXuQAvXeo9EcAmNFilUdIWwKBgQDeg7Et5SHoO266X05bjl8Rr6OUJakkCbzH\n711nsJ5VCBZq1Kds3lwrWTg1gltYOfFmPqy0KSvYij9c3Al12mLiuN52ECGjzQS/\nZYbWnlzhVaWatqROpikDlBzD1quldcpx1z7ib9K1wHaIsd7MWFHvI86eFsu4o7x4\nc+zEPkxuIwKBgEbYZecp+5BZbh78kmuFCAUSNnxfI5BSAvA1nRKPdOyKLXcFKQgs\nKkhgEdIk+zAeu0KUfntKp/EfaZXX3igx2k1K6ouddX7LwrzYGhNYRUHnONHosXDw\nJsjH4WLskM6haJFflhNm9QQ7v5DFRFcscGUV1ubeenf/WoGwjE1aAVtBAoGAVCh0\n08nsyBvqZjzzsvcnB9ZpRPf1f/ba2reymSwYxkpXyDID3M5BB/gnpT1XdQf9QFGG\nGmHT/oNTMbjbLyLY8a1AHmE9h+lb2VP56qRctrEhAGIBxOlda8gSFRPVObBSUDo7\nw4LNrAZODqdPf/QLkSn21J4EkSIEf35A13xEhgcCgYEAj1HyQqlmMrFOsI3jtNXM\nkJWIRkQ6Ds/ebahgmuW0Dvy75zP3MmGOa/qTlrKOas2YU3BfGMOzqqDVNZqCwItJ\nDaLlJ5tfFBCL/6QoBrjP0NntUSeggdrMDK+lCto2xlVaj4+92SeK+ur/SpN4QQl9\nzswrDBcVLppRUnjc6962+Bw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-flutter@azul-kei9.iam.gserviceaccount.com",
+  "client_id": "116008646629024681489",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-flutter%40azul-kei9.iam.gserviceaccount.com"
+}
